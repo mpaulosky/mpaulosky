@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mpaulosky/mpaulosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Matthew Paulosky, a retired Boeing Comercial Aircraft employee
 
-Here are some ideas to get you started:
+<p>My last job at Boeing was supporting the Electrical Engineering organization. Creating, supporting applications which assited in the design of aircraft electical systems and processes. I worked with VBA, C#, HTML, CSS, Bootstrap, Java, and MS Access.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I currently enjoy learning new technologies in the .NET and C# relm to keep my brain learing new skills and techniques.</P>
+
+***
+
+- 🔭 I’m currently working on ... [IRApplication](https://github.com/mpaulosky/IRApplication) a Static Blazor project
+- 🌱 I’m currently learning ... Blazor, Web API, and Identity
+- 👯 I’m looking to collaborate on ... [CSharpFritz KipTok project](https://github.com/csharpfritz/KlipTok)
+- 🤔 I’m looking for help with ... GitHub Actions and CD
+
+***
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpaulosky&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<!--  -->
