@@ -2,7 +2,7 @@
 
 ## I'm Matthew Paulosky, a retired Boeing Comercial Aircraft employee
 
-<p>My last job at Boeing was supporting the Electrical Engineering organization. Creating, supporting applications which assited in the design of aircraft electical systems and processes. I worked with VBA, C#, HTML, CSS, Bootstrap, Java, and MS Access.</p>
+<p>My last job at Boeing was supporting the Electrical Engineering organization. Creating, supporting applications which assisted in the design of aircraft electical systems and processes. I worked with VBA, C#, HTML, CSS, Bootstrap, Java, and MS Access.</p>
 
 <p>I currently enjoy learning new technologies in the .NET and C# relm to keep my brain learing new skills and techniques.</P>
 
