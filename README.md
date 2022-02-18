@@ -8,8 +8,9 @@
 
 ***
 
-- 🔭 I’m currently working on ... [IRApplication](https://github.com/mpaulosky/IRApplication) a Static Blazor project
+- 🔭 I’m currently working on ... [IssueTracker](https://github.com/mpaulosky/IssueTracker) a Blazor Server project
 - 🌱 I’m currently learning ... Blazor, Web API, and Identity
+- 👯 I’m looking to collaborate on ... [CSharpFritz InstantAPI project](https://github.com/csharpfritz/InstantAPI)
 - 👯 I’m looking to collaborate on ... [CSharpFritz KipTok project](https://github.com/csharpfritz/KlipTok)
 - 🤔 I’m looking for help with ... GitHub Actions and CD
 
